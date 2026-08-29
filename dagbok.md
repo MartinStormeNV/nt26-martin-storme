@@ -1,6 +1,5 @@
 
-# ÖVNNG: GÖR DET SJÄLV - GJORD I PACKET TRACER
-## Min slutsats: 
+## ÖVNNG: GÖR DET SJÄLV - Min slutsats 
 När man tar ur kabeln och kontakten går ner, så slänger switchen sin anteckning om MAC-adressen till datorn direkt. Aging efter fem minuter gäller alltså inte då.<br>
 Aging sker bara efter 5 INAKTIVA minuter - dvs<br>
 1) så länge länken till datorn är intakt<br> 
@@ -11,7 +10,7 @@ Om porten försvinner direkt så kan det vara fysiskt fel med t.ex. kabel, avst�
 <br><br>
 
 
-# KONTROLLFRÅGOR - ÅTERBLICK
+## KONTROLLFRÅGOR - ÅTERBLICK
 
 #### 2.14 Vilka tre lägen finns på en Cisco-switch, och hur ser du i prompten vilket du är i?  
 "SW-Martin>" användarläge  
