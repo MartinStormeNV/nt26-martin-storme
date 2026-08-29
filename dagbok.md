@@ -1,6 +1,6 @@
 
 ## ÖVNNG: GÖR DET SJÄLV - Min slutsats 
-När man tar ur kabeln och kontakten går ner, så slänger switchen sin anteckning om MAC-adressen till datorn direkt. Aging efter fem minuter gäller alltså inte då.<br>
+När man tar ur kabeln och kontakten går ner, så slänger switchen sin anteckning om MAC-adressen till datorn direkt. Aging efter fem minuter gäller alltså inte då.<br><br>
 Aging sker bara efter 5 INAKTIVA minuter - dvs<br>
 1) så länge länken till datorn är intakt<br> 
 2) och utan att något paket skickas.<br><br>
