@@ -5,6 +5,7 @@ När man tar ur kabeln och kontakten går ner, så slänger switchen sin anteckn
 Aging sker bara efter 5 INAKTIVA minuter - dvs<br>
 1) så länge länken till datorn är intakt<br> 
 2) och utan att något paket skickas.<br><br>
+
 Om porten försvinner direkt så kan det vara fysiskt fel med t.ex. kabel, avstängd enhet eller aktivt disablad
 
 <br><br>
