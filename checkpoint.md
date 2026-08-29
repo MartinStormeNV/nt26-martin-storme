@@ -3,7 +3,7 @@ checkpoint.md med utdatan från show mac address-table och en skärmdump från W
 
 
 
-Jag har använt "ping" för att göra datorn synlig så att Switchens kan bygga sin MAC-adresstabell från inkommande trafik.<br>
+- Jag har använt "ping" för att göra datorn synlig så att Switchens kan bygga sin MAC-adresstabell från inkommande trafik.<br>
 Visar ett ARP-request som kan koppla ihop IP-adress med MAC-adress.<br><br>
 Har gjort övningen hemma och använt Cisco Packet Tracer's simulering av motsvarighet till Wireshark.<br><br>
 
