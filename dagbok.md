@@ -7,8 +7,7 @@ Aging sker bara efter 5 INAKTIVA minuter - dvs<br>
 
 Om porten försvinner direkt så kan det vara fysiskt fel med t.ex. kabel, avstängd enhet eller aktivt disablad
 
-<br><br>
-
+<br>
 
 ## KONTROLLFRÅGOR - ÅTERBLICK
 
