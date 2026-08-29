@@ -19,12 +19,12 @@ Om porten försvinner direkt så kan det vara fysiskt fel med t.ex. kabel, avst�
 #### 2.15 Vad händer med din konfiguration om du stänger av switchen utan att spara, och vilket kommando sparar den?  
 Alla ändringar du just gjort försvinner. Kommandot: “write memory”<br><br>
 
-#### 2.16 Räkna upp de sju OSI-lagren i ordning. Vilket lager arbetar en switch på?    
+#### 2.16 Räkna upp de sju OSI-lagren i ordning. Vilket lager arbetar en switch på?<br>
+a) 1 Fysiskt, 2 Datalänk, 3 Nätverk, 4 Transport, 5 Session, 6 Presentation, 7 Applikation<br>
+b) En switch arbetar på lager nummer 2, Länklagret.<br><br>
 <br>
 
-a) 1 Fysiskt, 2 Datalänk, 3 Nätverk, 4 Transport, 5 Session, 6 Presentation, 7 Applikation<br><br>
-b) En switch arbetar på lager nummer 2, Länklagret.<br><br>
-
+## OSI-lagren, detaljerad lista
 #### 7. Applikation (servrar)**  
 Hjälper program att nå nättjänster som ex http/https för webbsidor, smtp för e-post, ftp för filöverföring  
 Typiska fel: Servern svarar inte <br><br>
