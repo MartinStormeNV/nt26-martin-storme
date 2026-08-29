@@ -1,17 +1,17 @@
-# OBS! Har gjort övningen i Packet Tracer vilket gjort att jag fått "Cisco Systems, Inc" på samtliga MAC-adresser nedan.
-# ...Även om MAC-adresserna är olika i de första sex sifforna, så hör samtliga enligt "MAC Address Lookup" till leverantören Cisco.
+# Jag gjort övningen först i Cisco Packet Tracer vilket gjort att jag fått "Cisco Systems, Inc" på samtliga MAC-adresser på den hårdvara jag valde.
+# För att övningen skulle bli mer varierad letade jag upp på nätet några andra leverantörer och deras tillhörande MAC-adresser (första halvan=vendor-delen).
 
 vendors = {
-    "00:02:16": "Cisco Systems, Inc",
-    "00:60:5c": "Cisco Systems, Inc",
-    "00:d0:ff": "Cisco Systems, Inc",
+    "00:11:0A": "Hewlett Packard",
+    "00:05:85": "Juniper Networks",
+    "00:18:82": "Huawei Technologies",
 }
 
 # Adresserna du vill sla upp. Byt ut mot dina egna.
 addresses = [
-    "00:02:16:8b:4d:91",
-    "00:60:5c:de:c9:22",
-    "00:d0:ff:bd:c2:79",
+    "00:11:0A:8b:4d:91",
+    "00:05:85:de:c9:22",
+    "00:18:82:bd:c2:79",
 ]
 
 for address in addresses:
