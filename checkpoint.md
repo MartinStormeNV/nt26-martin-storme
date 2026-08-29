@@ -9,7 +9,7 @@ Har gjort övningen hemma och använt Cisco Packet Tracer's simulering av motsva
 
 <img width="1127" height="691" alt="Bild show mac address-table och Wireshark-capture med utpekad APT-request" src="https://github.com/user-attachments/assets/1575c6ab-9ffa-4709-91bb-08fe3d6304c7" />
 
-
+<br>
 Har även gått in och tömt min privata dator på tidigare arp -d  
 - Sökt öpp min gatway via ipconfig  
 - Pingat min gateway  
