@@ -1,10 +1,10 @@
-v2dagbok.md
 
-<br><br>
-# ÖVNNG: GÖR DET SJÄLV - GORD I PACKET TRACER
+# ÖVNNG: GÖR DET SJÄLV - GJORD I PACKET TRACER
 ## Min slutsats: 
 När man tar ur kabeln och kontakten går ner, så slänger switchen sin anteckning om MAC-adressen till datorn direkt. Aging efter fem minuter gäller alltså inte då.<br>
-Aging sker bara efter 5 inaktiva minuter så länge länken till datorn är intakt och utan att något paket skickas.
+Aging sker bara efter 5 INAKTIVA minuter - dvs<br>
+1) så länge länken till datorn är intakt<br> 
+2) och utan att något paket skickas.<br><br>
 Om porten försvinner direkt så kan det vara fysiskt fel med t.ex. kabel, avstängd enhet eller aktivt disablad
 
 <br><br>
@@ -12,19 +12,19 @@ Om porten försvinner direkt så kan det vara fysiskt fel med t.ex. kabel, avst�
 
 # KONTROLLFRÅGOR - ÅTERBLICK
 
-### 2.14 Vilka tre lägen finns på en Cisco-switch, och hur ser du i prompten vilket du är i?  
+#### 2.14 Vilka tre lägen finns på en Cisco-switch, och hur ser du i prompten vilket du är i?  
 "SW-Martin>" användarläge  
 "SW-Martin#" Priviligierat läge (enable)  
 "SW-Martin(config)#" = konfigurationesläge (configure terminal, eller config t)<br><br>
 
-### 2.15 Vad händer med din konfiguration om du stänger av switchen utan att spara, och vilket kommando sparar den?  
+#### 2.15 Vad händer med din konfiguration om du stänger av switchen utan att spara, och vilket kommando sparar den?  
 Alla ändringar du just gjort försvinner. Kommandot: “write memory”<br><br>
 
-### 2.16 Räkna upp de sju OSI-lagren i ordning. Vilket lager arbetar en switch på?    
+#### 2.16 Räkna upp de sju OSI-lagren i ordning. Vilket lager arbetar en switch på?    
 En switch arbetar på lager nummer 2, Länklagret.<br><br>
 
   
-
+<br><br>
 
 ## OSI-lagren i ordning
 #### 7 Applikation (servrar)**  
