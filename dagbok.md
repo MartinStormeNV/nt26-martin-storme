@@ -12,17 +12,17 @@ Om porten försvinner direkt så kan det vara fysiskt fel med t.ex. kabel, avst�
 
 # KONTROLLFRÅGOR - ÅTERBLICK
 
-2.14 Vilka tre lägen finns på en Cisco-switch, och hur ser du i prompten
+### 2.14 Vilka tre lägen finns på en Cisco-switch, och hur ser du i prompten
 vilket du är i?  
 "SW-Martin>" användarläge  
 "SW-Martin#" Priviligierat läge (enable)  
 "SW-Martin(config)#" = konfigurationesläge (configure terminal, eller config t)<br><br>
 
-2.15 Vad händer med din konfiguration om du stänger av switchen  
+### 2.15 Vad händer med din konfiguration om du stänger av switchen  
 utan att spara, och vilket kommando sparar den?  
 Alla ändringar du just gjort försvinner. Kommandot: “write memory”<br><br>
 
-2.16 Räkna upp de sju OSI-lagren i ordning. Vilket lager arbetar en switch på?    
+### 2.16 Räkna upp de sju OSI-lagren i ordning. Vilket lager arbetar en switch på?    
 En switch arbetar på lager nummer 2, Länklagret.<br><br>
 
   
