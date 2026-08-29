@@ -24,7 +24,7 @@ En switch arbetar på lager nummer 2, Länklagret.<br><br>
 
 <br>
 
-## OSI-lagren i ordning: 1 Fysiskt, 2 Datalänk, 3 Nätverk, 4 Transport, 5 Session, 6 Presentation, 7 Applikation<br><br><br>
+## OSI-lagren i ordning:<br> 1 Fysiskt, 2 Datalänk, 3 Nätverk, 4 Transport, 5 Session, 6 Presentation, 7 Applikation<br><br><br>
 
 
 #### 7. Applikation (servrar)**  
