@@ -1,5 +1,5 @@
-# Jag gjort övningen först i Cisco Packet Tracer vilket gjort att jag fått "Cisco Systems, Inc" på samtliga MAC-adresser på den hårdvara jag valde.
-# För att övningen skulle bli mer varierad letade jag upp på nätet några andra leverantörer och deras tillhörande MAC-adresser (första halvan=vendor-delen).
+# Jag gjorde först övningen i Cisco Packet Tracer och körde "show cac address-table" på enheterna som fanns där, men eftersom CPT endaast har Cisco-hårdvara i sin simulering så blev uppgiften lite enahanda i sin output.
+# För att övningen skulle bli mer varierad letade jag på nätet upp några andra leverantörer och deras tillhörande MAC-adresser (första halvan=vendor-delen) och klistrade in de leverantörer med deras tillhörande MAC/vendor-del. https://maclookup.app/
 
 vendors = {
     "00:11:0A": "Hewlett Packard",
