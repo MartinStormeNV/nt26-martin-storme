@@ -25,31 +25,31 @@ b) En switch arbetar på lager nummer 2, Länklagret.<br><br>
 <br>
 
 ## OSI-lagren, detaljerad lista
-#### 7. Applikation (servrar)**  
+#### 7. Applikation (servrar)
 Hjälper program att nå nättjänster som ex http/https för webbsidor, smtp för e-post, ftp för filöverföring  
 Typiska fel: Servern svarar inte <br><br>
 
-#### 6. Presentation (servrar)**  
+#### 6. Presentation (servrar)  
 Översätta, formatera, kryptera och komprimera data så att den kan förstås av applikationslagret. Teckenkodning ASCII, Unicode, bildformat.  
 Typiska fel: Servern svarar inte <br><br>
 
-#### 5. Session (servrar)**  
+#### 5. Session (servrar)
 Starta, styra och avsluta kommunikationssessioner mellan två enheter  
 Typiska fel: Servern svarar inte <br><br>
 
-#### 4. Transport (Brandvägg)**  
+#### 4. Transport (Brandvägg)  
 Delar upp datan och håller reda på vilket program den ska till. Protokoll TCP eller UDP  
 Typiska fel: Blockerad port <br><br>
 
-#### 3. Nätverk (Router)**  
+#### 3. Nätverk (Router)
 IP-adresser och vägval mellan nät  
 Typiska fel: Fel nätmask, saknad route <br><br>
 
-#### 2. Datalänk (Switch)**  
+#### 2. Datalänk (Switch)  
 Ramar och MAC-adresser inom samma nät  
 Typiska fel: Fel VLAN, duplex mismatch <br><br>
  
-#### 1. Fysiskt**  
+#### 1. Fysiskt
 Kablage, patchpanel, kontakter, signaler  
 Typiska fel: Trasig kabel, avstängd port
 
