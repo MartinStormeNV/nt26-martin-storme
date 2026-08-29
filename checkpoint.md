@@ -1,12 +1,11 @@
 UPPGIFT V2 FÖR CHECKPOINT.MD
-checkpoint.md med utdatan från show mac address-table och en
-skärmdump från Wireshark
+checkpoint.md med utdatan från show mac address-table och en skärmdump från Wireshark
 
 
 
-Jag har använt "ping" för att göra datorn synlig så att Switchens kan bygga sin MAC-adresstabell från inkommande trafik.
-Visar ett ARP-request som kan koppla ihop IP-adress med MAC-adress. 
-Har gjort övningen hemma och använt Cisco Packet Tracer's simulering av motsvarighet till Wireshark.
+Jag har använt "ping" för att göra datorn synlig så att Switchens kan bygga sin MAC-adresstabell från inkommande trafik.<br>
+Visar ett ARP-request som kan koppla ihop IP-adress med MAC-adress.<br>
+Har gjort övningen hemma och använt Cisco Packet Tracer's simulering av motsvarighet till Wireshark.<br><br>
 
 <img width="1127" height="691" alt="Bild show mac address-table och Wireshark-capture med utpekad APT-request" src="https://github.com/user-attachments/assets/1575c6ab-9ffa-4709-91bb-08fe3d6304c7" />
 
