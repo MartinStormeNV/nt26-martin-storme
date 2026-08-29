@@ -20,9 +20,9 @@ Om porten försvinner direkt så kan det vara fysiskt fel med t.ex. kabel, avst�
 Alla ändringar du just gjort försvinner. Kommandot: “write memory”<br><br>
 
 #### 2.16 Räkna upp de sju OSI-lagren i ordning. Vilket lager arbetar en switch på?    
-<br><br>
+<br>
 
-a) OSI-lagren i ordning:<br> 1 Fysiskt, 2 Datalänk, 3 Nätverk, 4 Transport, 5 Session, 6 Presentation, 7 Applikation<br><br>
+a) 1 Fysiskt, 2 Datalänk, 3 Nätverk, 4 Transport, 5 Session, 6 Presentation, 7 Applikation<br><br>
 b) En switch arbetar på lager nummer 2, Länklagret.<br><br>
 
 #### 7. Applikation (servrar)**  
