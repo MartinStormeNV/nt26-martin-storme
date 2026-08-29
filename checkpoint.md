@@ -8,5 +8,6 @@ Jag har använt "ping" för att göra datorn synlig så att Switchens kan bygga 
 Visar ett ARP-request som kan koppla ihop IP-adress med MAC-adress. 
 Har gjort övningen hemma och använt Cisco Packet Tracer's simulering av motsvarighet till Wireshark.
 
-<img width="1372" height="840" alt="image" src="https://github.com/user-attachments/assets/512ab0f7-c2c6-4254-af62-29c01f13eac1" />
+<img width="1127" height="691" alt="Bild show mac address-table och Wireshark-capture med utpekad APT-request" src="https://github.com/user-attachments/assets/1575c6ab-9ffa-4709-91bb-08fe3d6304c7" />
+
 
