@@ -20,10 +20,9 @@ Filer som ingår i veckan
 ---
 
 ## Syfte med veckan
-1. Förklara vad en MAC-adress är och var switchen lagrar dem.
-2. Läsa show mac address-table och säga vilken enhet som sitter på vilken
-port.
-3. Fånga trafik i Wireshark och peka ut avsändarens och mottagarens MAC-adress
-i en ram.
-4. Förklara vad ARP gör och varför det behövs.
+1. Förklara vad en MAC-adress (Address Resolution Protocol) är och var switchen lagrar dem.
+2. Läsa show `mac address-table` och säga vilken enhet som sitter på vilken port.
+3. Fånga trafik i Wireshark och peka ut avsändarens och mottagarens MAC-adress i en ram (frame).
+4. Förklara vad ARP (Address Resolution Protocol) gör och varför det behövs (tar reda på vilken
+MAC-adress som hör till en känd IP-adress i samma nät)
 5. Öppna en pull request från en branch.
