@@ -1,6 +1,6 @@
 # Krabbafel 1)  
-1. Observation  
-- Datorer i samma VLAN når varandra inom en switch men inte mellan switcharna. Andra VLAN fungerar.  
+  
+* 1. Observation *  Datorer i samma VLAN når varandra inom en switch men inte mellan switcharna. Andra VLAN fungerar.  
   
 2. Hypotes  
 - Troligen missat att tillåta vlan’et på trunken på någon av switcharna på vardera sida om trunken.  
