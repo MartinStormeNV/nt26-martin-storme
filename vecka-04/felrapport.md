@@ -3,7 +3,7 @@
 1. Observation:<br>
 Datorer i samma VLAN når varandra inom en switch men inte mellan switcharna. Andra VLAN fungerar.<br>
 <br>
-3. Hypotes:<br>  
+3. Hypotes:<br>
 Troligen missat att tillåta vlan'et på trunken på någon av switcharna på vardera sida om trunken.<br>
 <br><br>
 5. Test:<br>
@@ -17,7 +17,7 @@ Kör "switchport trunk allowed vlan add <nummer>". Obs, alternativet  "switchpor
 <br>
 <br>
   
-# Krabbafel 2)  
+# Krabbafel 2)<br>
 1. Observation:<br>
 Två VLAN slutar fungera över trunken medan de andra fungerar. Felmeddelande RECV_PVID_ERR eller NATIVE_VLAN_MISMATCH<br>
 <br>
