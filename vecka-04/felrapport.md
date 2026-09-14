@@ -1,9 +1,9 @@
 # Krabbafel 1)  
   
-1. Observation:
+1. Observation:  
 Datorer i samma VLAN når varandra inom en switch men inte mellan switcharna. Andra VLAN fungerar.  
   
-3. Hypotes:
+3. Hypotes:  
 Troligen missat att tillåta vlan’et på trunken på någon av switcharna på vardera sida om trunken.  
   
 5. Test: Körde `show interfaces trunk` på båda switcharna och kolla att vlan-nummret står med över allowed vlan’s.  
