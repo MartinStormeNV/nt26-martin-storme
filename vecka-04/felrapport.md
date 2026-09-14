@@ -18,6 +18,7 @@ Kör "switchport trunk allowed vlan add <nummer>". Obs, alternativet  "switchpor
 <br>
   
 # Krabbafel 2)<br>
+<br>
 1. Observation:<br>
 Två VLAN slutar fungera över trunken medan de andra fungerar. Felmeddelande RECV_PVID_ERR eller NATIVE_VLAN_MISMATCH<br>
 <br>
