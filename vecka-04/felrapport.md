@@ -7,7 +7,7 @@ Datorer i samma VLAN når varandra inom en switch men inte mellan switcharna. An
 Troligen missat att tillåta vlan'et på trunken på någon av switcharna på vardera sida om trunken.<br>
 <br><br>
 5. Test:<br>
-Körde *show interfaces trunk* på båda switcharna och kolla att vlan-nummret står med över allowed vlan's.<br>
+Körde "show interfaces trunk" på båda switcharna och kolla att vlan-nummret står med över allowed vlan's.<br>
 <br>
 7. Slutsats:<br>
 Jag har själv missat detta på ena switchen när jag labbat och det visade sig vara just detta felet. Symtomet är ganska tydligt när lan’et funkar på den egna switchen men inte på andra sidan trunken.<br>
