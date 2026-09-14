@@ -12,7 +12,7 @@
   
   
   
-#Krabbafel 2)  
+# Krabbafel 2)  
 1. Observation: Två VLAN slutar fungera över trunken medan de andra fungerar. Felmeddelande RECV_PVID_ERR eller NATIVE_VLAN_MISMATCH  
   
 2. Hypotes: Olika nativ vlan på olika switchar.  
